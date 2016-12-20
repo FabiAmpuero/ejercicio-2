@@ -1,5 +1,5 @@
 # ejercicio-2
-Ejercicio-1
+Ejercicio-2
 
 Inicio: Promedio de tres números
 
